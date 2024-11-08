@@ -2,7 +2,7 @@
 
 - 🎓 Undergraduate in Computer Science @ University of Cambridge
 - 🎮 Aspiring Game Developer | Passionate Programmer
-- 🚀 Latest Release: Cadence on Steam – Check out my latest game, Cadence, a rhythmic souls-like boss-rush game where you have to master the rhythm to defeat bosses that move to the beat of the music!
+- 🚀 Latest Release: Cadence on Steam – Check out my latest game, Cadence, a rhythmic souls-like boss-rush game where you have to master the rhythm to defeat bosses that move to the beat of the music! https://store.steampowered.com/app/3234550/Cadence/
 
 Welcome to my GitHub profile! I'm currently studying Computer Science at the University of Cambridge, where I dive into the theory and application of computation, algorithms, and software design. I'm an aspiring game developer with a deep interest in creating immersive, interactive experiences that bring stories to life. Here, you'll find a mix of personal projects, coursework, and game development experiments that highlight my journey and skills.
 
