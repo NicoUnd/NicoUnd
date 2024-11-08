@@ -1,7 +1,5 @@
 ## Hello, I'm Nic
 
-<!--
-**NicoUnd/NicoUnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🎓 Undergraduate in Computer Science @ University of Cambridge
 - 🎮 Aspiring Game Developer | Passionate Programmer
 - 🚀 Latest Release: Cadence on Steam – Check out my latest game, Cadence, a rhythmic souls-like boss-rush game where you have to master the rhythm to defeat bosses that move to the beat of the music!
@@ -23,4 +21,3 @@ Frameworks: OpenGL
 📫 Connect With Me
 LinkedIn – Nicholas Galvez
 Email: nj.galvez@yahoo.co.uk
--->
