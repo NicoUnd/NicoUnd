@@ -13,11 +13,11 @@ AI and Algorithms: Building smarter, more adaptive game characters and mechanics
 Software Engineering: Developing clean, efficient code and learning best practices for scalable and maintainable applications.
 
 🛠️ Technical Skills
-Languages: C++, C#, Python, Java
-Game Engines: Unity, Godot
-Tools: Git, Blender, Photoshop, Illustrator
+Languages: C++, C#, Python, Java |
+Game Engines: Unity, Godot |
+Tools: Git, Blender, Photoshop, Illustrator |
 Frameworks: OpenGL
 
 📫 Connect With Me
-LinkedIn – Nicholas Galvez
+LinkedIn – Nicholas Galvez |
 Email: nj.galvez@yahoo.co.uk
