@@ -1,6 +1,6 @@
 ## Hello, I'm Nic
 
-- 🎓 Undergraduate in Computer Science @ University of Cambridge
+- 🎓 Graduate from The University of Cambridge studying Computer Science
 
 Welcome to my GitHub profile! I'm currently studying Computer Science at the University of Cambridge, where I dive into the theory and application of computation, algorithms, and software design. Here, you'll find a mix of personal projects, coursework, and experiments that highlight my journey and skills.
 
